@@ -20,4 +20,4 @@ Assignment 4: E-Commerce Sales Analysis (Power BI)
 - File: "Ecommerce_Sales_Analysis.pbix"
 - Focus: Data cleaning, data transformation, data merging, DAX measures, and interactive dashboard creation using Power BI.
 
-**Tools Used:** Microsoft Excel
+**Tools Used:** Microsoft Excel, Power BI desktop
