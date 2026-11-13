@@ -10,18 +10,19 @@ Assignment 2: Data Cleaning and Transformation
 - File: "Excel Assignment 2 - Data Cleaning and Transformation.xlsx"
 - Focus: Missing values, inconsistent data, duplicates, data splitting and merging, number formatting, and conditional formatting.
 
-Assignment 3: Healthcare Data Analysis and Dashboard
+Healthcare Data Analysis and Dashboard
 
 - File: healthcare.xlsx
 - Focus: Data cleaning, data transformation, PivotTables, data analysis, and visualization using Excel.
 
-Assignment 4: E-Commerce Sales Analysis (Power BI)
+Assignment 3: E-Commerce Sales Analysis (Power BI)
 
 - File: "Ecommerce_Sales_Analysis.pbix"
 - Focus: Data cleaning, data transformation, data merging, DAX measures, and interactive dashboard creation using Power BI.
-File: "Assignment_4_Ecommerce_Sales_Analysis_DAX_Visualization.pbix"
 
-Focus: Data cleaning, data transformation, data merging, DAX calculated columns and measures, YTD sales analysis, sales target comparison, and interactive dashboard creation using Power BI.
+Assignment_4_Ecommerce_Sales_Analysis_DAX_Visualization.pbix"
+
+- Data cleaning, data transformation, data merging, DAX calculated columns and measures, YTD sales analysis, sales target comparison, and interactive dashboard   creation using Power BI.
 
 Tools Used: Microsoft Excel, Power BI Desktop, Power Query, DAX
 
